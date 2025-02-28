@@ -1,0 +1,16 @@
+1)Open cursor
+
+2)Open file path and give ctrl + l to open chat window
+
+3)Then give this promt to create the game 
+	please create a standard Tetris game. please display the current score and please display the next 
+	block as well. please generate required source code files and add generated code into them. use python
+	for this task
+
+4)Follow the instruction
+
+5)Train the game using reinforcement learning
+
+	Please  generate a code to teach a model using reinforcement learning so the game can play by itself. 
+	please configure the number of iterations it learns so the user can control it. please display the result
+	of output in each training epoch
